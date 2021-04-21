@@ -5,5 +5,6 @@ The official cat-oriented programming language for those obsessed with ᓚᘏᗢ
 
 ## Contributing
 Open A PR based off of an approved issue. Simple enough.
+
 *alsolintyourcodeforfuckssake*
 
